@@ -1,2 +1,2 @@
 # Anatolias
-Web site
+Thank you, Bootstrap.
